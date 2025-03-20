@@ -6,4 +6,4 @@ A health tracking UI application developed using Object-Oriented Programming pri
 ![UI](https://github.com/ychien-lin/HealthTracker/blob/main/UI_create.jpg)
 ![UI](https://github.com/ychien-lin/HealthTracker/blob/main/UI_custom_data.jpg)
 ## Demo Video
-[Demo Video](https://github.com/ychien-lin/HealthTracker/blob/main/Demo.mp4)
+[Demo Video](https://drive.google.com/file/d/1zzR7i7vVEZvG1F7XuUww1bdGbI19Q47z/view?usp=sharing)
